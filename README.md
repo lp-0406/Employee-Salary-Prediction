@@ -5,7 +5,6 @@ A Machine Learning-powered web application to classify whether an individual's i
 🔗 **Live App**: [Streamlit Deployment](https://employee-salary-prediction-6yc6gnecxkdrr5vmdi46kz.streamlit.app/)  
 📁 **GitHub Repo**: [Employee-Salary-Prediction](https://github.com/lp-0406/Employee-Salary-Prediction)
 
----
 
 ## 🚀 Features
 
@@ -14,7 +13,6 @@ A Machine Learning-powered web application to classify whether an individual's i
 - Supports both **single prediction** and **batch prediction via CSV**
 - Displays **prediction confidence score**
 
----
 
 ## 📊 Input Features
 
@@ -30,7 +28,6 @@ A Machine Learning-powered web application to classify whether an individual's i
 - `capital-loss`
 - `hours-per-week`
 
----
 
 ## 🤖 Model Details
 
@@ -40,7 +37,6 @@ A Machine Learning-powered web application to classify whether an individual's i
   - **Accuracy**: ~88%
   - **Confidence Scores**: Displayed for each prediction using `predict_proba`
 
----
 
 ## 🛠️ Tech Stack
 
@@ -50,7 +46,6 @@ A Machine Learning-powered web application to classify whether an individual's i
 - Pandas, NumPy
 - Joblib
 
----
 
 ## 📦 Setup Instructions
 
