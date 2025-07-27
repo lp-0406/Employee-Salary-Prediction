@@ -40,11 +40,15 @@ A Machine Learning web app to predict whether an individual’s income is above 
 
 
 
-## 🛠 Setup & Installation
+## 📦 Setup Instructions
 
 ```bash
+# Clone the repo
 git clone https://github.com/lp-0406/Employee-Salary-Prediction.git
 cd Employee-Salary-Prediction
+
+# Install dependencies
 pip install -r requirements.txt
+
+# Run the app
 streamlit run app.py
-```
